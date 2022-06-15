@@ -8,7 +8,7 @@ marielarojo11@gmail.com
 
 ## Introduction 
 Implement the command:
-[Mb, time_up, time_download] = pingmb -n <Mb> -ip <dst>
+[Mb, time_up, time_download] = mb -n <Mb> -ip <dst>
 
 Mb: tama;o del archivo en Mb 
 dst:  IP de destino
@@ -25,7 +25,6 @@ The indicated steps are the following:
 
   c) use wget and scp to download or upload data.
 
-## Results 
 
   
 ## References

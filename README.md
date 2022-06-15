@@ -10,7 +10,7 @@ marielarojo11@gmail.com
 Implement the command:
 [Mb, time_up, time_download] = mb -n <Mb> -ip <dst>
 
-Mb: tama;o del archivo en Mb 
+Mb: tamaño del archivo en Mb 
 dst:  IP de destino
   
 ## Methodology
